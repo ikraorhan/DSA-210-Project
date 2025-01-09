@@ -1,1 +1,22 @@
+# DSA 210 Project - Screen Time and Step Count Analysis
+
+This project analyzes the relationship between screen time (in hours) and daily step counts over a 30-day period.
+
 📄 **[PDF Formatındaki Raporu Görüntüle](https://github.com/ikraorhan/DSA-210-Project/raw/Project-Report/Ikra%20Orhan%20DSA%20Project%20Report.pdf)**
+
+---
+
+## Project Overview
+- **Data Source:** Step count data from Apple Health, manually recorded screen time.
+- **Libraries Used:** Pandas, Matplotlib, Statsmodels.
+- **Analysis:** Correlation analysis, regression modeling.
+
+## Visualizations
+- **Bar Chart:** Screen time by day.
+- **Scatter Plot:** Screen time vs. step count.
+- **Line Graph:** Trends over time.
+
+---
+
+## How to View the Report
+Click the link above to view the full project report in PDF format.
